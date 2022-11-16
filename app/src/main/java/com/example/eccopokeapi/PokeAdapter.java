@@ -5,7 +5,6 @@ import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-import com.example.eccopokeapi.PokeAdapter;
 
 import com.example.eccopokeapi.databinding.ItemPokemonBinding;
 import java.util.List;
@@ -45,3 +44,4 @@ public class PokeAdapter extends RecyclerView.Adapter<PokeAdapter.ViewHolder> {
 
 
 }
+
