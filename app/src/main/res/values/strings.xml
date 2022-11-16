@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EccoPokeApi</string>
+    <string name="load">Load</string>
+    <string name="image_from_a_pokemon">Image from a Pokemon</string>
+</resources>
